@@ -1,0 +1,48 @@
+{
+  "boards": [
+    {
+      "name": "Beers of the world",
+      "user": 0,
+      "id": 70067482848,
+      "starred": false,
+      "created": "2021-11-06"
+    },
+    {
+      "name": "Beers of the world",
+      "user": 0,
+      "id": 71188551932,
+      "starred": false,
+      "created": "2021-11-06"
+    },
+    {
+      "name": "Beers of the world",
+      "user": 0,
+      "id": 77144503040,
+      "starred": false,
+      "created": "2021-11-06"
+    },
+    {
+      "name": "Beers of the world",
+      "user": 0,
+      "id": 33305958272,
+      "starred": false,
+      "created": "2021-11-06"
+    },
+    {
+      "name": "Beers of the world",
+      "user": 0,
+      "id": 65144926466,
+      "starred": false,
+      "created": "2021-11-06"
+    }
+  ],
+  "tasks": [],
+  "users": [
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$u5NVWm7c/xDM4kzxBTyYaeHL79XJnJuHpHHLgI93nkhQJiaE5Cw0O",
+      "id": 1
+    }
+  ],
+  "lists": []
+}
